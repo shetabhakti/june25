@@ -1,0 +1,3 @@
+Chrysler=Sebring,30000,red
+GM=Chevy,55000,blue
+toya=RAV4,25000,gray
